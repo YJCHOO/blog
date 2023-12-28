@@ -2,8 +2,6 @@
 title: "Why did my newly installed Smart switch trip the ELCB?"
 description: "I think I need a Zigbee Smart Switch."
 date: "2023-12-28"
-image: sonoff-switchman-m5-smart-switch.webp
-draft: false
 ---
 
 ![Sonoff SwitchMan M5 Smart Switch](sonoff-switchman-m5.webp)
