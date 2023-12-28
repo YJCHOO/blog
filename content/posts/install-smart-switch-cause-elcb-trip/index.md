@@ -4,8 +4,8 @@ description: "I think I need a Zigbee Smart Switch."
 date: "2023-12-28"
 cover:
     image: sonoff-switchman-m5-smart-switch.webp
-    alt: ""
-    caption: ""
+    alt: "Sonoff SwitchMan M5 Smart Switch"
+    caption: "Sonoff SwitchMan M5 Smart Switch"
     relative: false
 ---
 
