@@ -2,13 +2,18 @@
 title: "Why did my newly installed Smart switch trip the ELCB?"
 description: "I think I need a Zigbee Smart Switch."
 date: "2023-12-28"
+cover:
+    image: sonoff-switchman-m5-smart-switch.webp
+    alt: ""
+    caption: ""
+    relative: false
 ---
-
-![Sonoff SwitchMan M5 Smart Switch](sonoff-switchman-m5.webp)
 
 I think this is a bad behavior. Sometimes, I bought something from the online store. I will leave it at some place and not unbox the parcel.
 
 Why did I buy something but don't use it? Also, I may get a faulty product. It's such a waste.
+
+![Sonoff SwitchMan M5 Smart Switch](sonoff-switchman-m5.webp)
 
 Recently, I got a Sonoff SwitchMan M5 Smart Switch. Because I'm procrastinating, it's been in my drawer for about a month. I plan to create an automation with [my DIY Human Presence Sensor](https://juanstechblog.blogspot.com/2023/12/build-human-presence-sensor-esp8266-ld2410-esphome-integrate-home-assistant.html). 
 
