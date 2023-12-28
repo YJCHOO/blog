@@ -1,0 +1,6 @@
+[submodule "themes/LoveIt"]
+	path = themes/LoveIt
+	url = https://github.com/dillonzq/LoveIt.git
+[submodule "themes/hugothemestack"]
+	path = themes/hugothemestack
+	url = https://github.com/CaiJimmy/hugo-theme-stack.git
