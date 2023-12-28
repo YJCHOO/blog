@@ -1,9 +1,16 @@
-baseURL : https://yjchoo.github.io/
+baseURL : https://yjchoo.github.io/juanblog/
 languageCode : en-us
 title : Juan's Blog
 theme : PaperMod
 
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON # is necessary
 params:
+    env: production
+    defaultTheme: auto
     homeInfoParams:
         Title: Juan
         Content: Welcome to blog. Just my daily life.
@@ -17,4 +24,11 @@ params:
         - name: kofi
           title: "Ko-fi"
           url: https://ko-fi.com/juanonkofi
-    
+    ShowShareButtons: true
+    ShowPostNavLinks: true
+
+menu:
+  main:
+    - name: Search
+      url: search/
+      weight: 10
