@@ -16,6 +16,7 @@ Firstly, not to confuse the ALEX Storage Unit and the ALEX Drawer Unit. This ALE
 The ALEX Storage Unit usually costs RM 249. Last month(November 2023), IKEA had a discount for IKEA Family Members for RM 199 at the IKEA Damansara outlet. 
 
 ![IKEA ALEX Storage Unit 50% Discount Promotion](ikea-alex-storage-unit-promotion-50-percent-discount.webp)
+(Image above from IKEA Cheras Fan Club Facebook)
 
 This time, IKEA Family offers 50% off Top Seller Edition, lowering the price of the ALEX Storage Unit to RM 124.
 
