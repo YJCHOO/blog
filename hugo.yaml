@@ -26,6 +26,9 @@ params:
           url: https://ko-fi.com/juanonkofi
     ShowShareButtons: true
     ShowPostNavLinks: true
+    analytics:
+      google:
+        SiteVerificationTag: "8tuuNRZtCnIRwkCljQTqQ_4KvsAJ-_jqNhFgewUSIFU"
 
 menu:
   main:
@@ -34,6 +37,3 @@ menu:
       weight: 10
 
 
-analytics:
-  google:
-    SiteVerificationTag: "8tuuNRZtCnIRwkCljQTqQ_4KvsAJ-_jqNhFgewUSIFU"
