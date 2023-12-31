@@ -32,3 +32,8 @@ menu:
     - name: Search
       url: search/
       weight: 10
+
+
+analytics:
+    google:
+      SiteVerificationTag: "8tuuNRZtCnIRwkCljQTqQ_4KvsAJ"
