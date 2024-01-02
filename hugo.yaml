@@ -29,6 +29,7 @@ params:
     analytics:
       google:
         SiteVerificationTag: "8tuuNRZtCnIRwkCljQTqQ_4KvsAJ-_jqNhFgewUSIFU"
+    comments: true
 
 menu:
   main:
