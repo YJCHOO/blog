@@ -10,6 +10,8 @@ outputs:
         - JSON # is necessary
 params:
     env: production
+    title: Juan's Blog
+    description: "Lifestyle blog. Also, covering Juan's Tech Blog behind the scenes."
     defaultTheme: auto
     homeInfoParams:
         Title: Juan

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Smart Switch on Juan&#39;s Blog</title>
+    <link>https://yjchoo.github.io/blog/tags/smart-switch/</link>
+    <description>Recent content in Smart Switch on Juan&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 28 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://yjchoo.github.io/blog/tags/smart-switch/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why did my newly installed Smart switch trip the ELCB?</title>
+      <link>https://yjchoo.github.io/blog/posts/install-smart-switch-cause-elcb-trip/</link>
+      <pubDate>Thu, 28 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://yjchoo.github.io/blog/posts/install-smart-switch-cause-elcb-trip/</guid>
+      <description>I think I need a Zigbee Smart Switch.</description>
+    </item>
+  </channel>
+</rss>

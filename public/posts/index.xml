@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Juan&#39;s Blog</title>
+    <link>https://yjchoo.github.io/blog/posts/</link>
+    <description>Recent content in Posts on Juan&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 09 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://yjchoo.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Build Up My Reading Habit.</title>
+      <link>https://yjchoo.github.io/blog/posts/build-up-reading-habit/</link>
+      <pubDate>Tue, 09 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://yjchoo.github.io/blog/posts/build-up-reading-habit/</guid>
+      <description>I will try this year.</description>
+    </item>
+    <item>
+      <title>2024 New Year&#39;s Resolution</title>
+      <link>https://yjchoo.github.io/blog/posts/2024-new-year-resolution/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://yjchoo.github.io/blog/posts/2024-new-year-resolution/</guid>
+      <description>My New Year&amp;rsquo;s resolution is simple:
+Hit YouTube&amp;rsquo;s monetization goal. YouTube has two tiers of monetization. The first tier needs 500 subscribers and 3000 watch hours or 3 million Shorts views. The second tier needs 1000 subscribers and 4000 watch hours or 10 million Shorts views.
+For my current state, my YouTube channel has 316 subscribers and 350 watch hours. It&amp;rsquo;s near the first-tier monetization. But I&amp;rsquo;m still struggling with the watch hours.</description>
+    </item>
+    <item>
+      <title>IKEA Alex Storage Unit seems like a good deal now.</title>
+      <link>https://yjchoo.github.io/blog/posts/ikea-alex-storage-unit-good-deal/</link>
+      <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://yjchoo.github.io/blog/posts/ikea-alex-storage-unit-good-deal/</guid>
+      <description>I brought it.</description>
+    </item>
+    <item>
+      <title>Why did my newly installed Smart switch trip the ELCB?</title>
+      <link>https://yjchoo.github.io/blog/posts/install-smart-switch-cause-elcb-trip/</link>
+      <pubDate>Thu, 28 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://yjchoo.github.io/blog/posts/install-smart-switch-cause-elcb-trip/</guid>
+      <description>I think I need a Zigbee Smart Switch.</description>
+    </item>
+  </channel>
+</rss>
