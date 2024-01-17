@@ -19,10 +19,10 @@ I replace the espresso with instant coffee. I have a cheap espresso machine, but
 My first attempt to make 2 Spanish latte used 2 slightly different instant coffee: Nescafe Gold and Nescafe Classic. Both of the Spanish Latte taste plain. The Nescafe Gold one tastes smoother, and the other's coffee tastes stronger(but still bland). 
 
 Here are my measurements: 
-2 teaspoons of instant coffee.
-180 ml of boiled water.
-100 ml of milk.
-1 teaspoon of sweetened condensed milk.
+- 2 teaspoons of instant coffee.
+- 180 ml of boiled water.
+- 100 ml of milk.
+- 1 teaspoon of sweetened condensed milk.
 
 My second attempt is to reduce the boiled water. 180 ml of boiled water was reduced to 100 ml, and milk was increased to 120 ml. I only made the Spanish Latte with Nescafe Gold. The coffee tastes slightly better but is still bland and even milky.
 
