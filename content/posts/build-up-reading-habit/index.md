@@ -7,7 +7,7 @@ cover:
     image: build-up-my-reading-habit-cover.webp 
     alt: "build-up-my-reading-habit-cover"
     caption: "build-up-my-reading-habit-cover"
-    relative: false
+    relative: true
 ---
 
 I want to build up my reading habits. But I always fail. That is why I'm still reading How to Avoid a Climate Disaster by Bill Gates after two years.  

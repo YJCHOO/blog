@@ -7,7 +7,7 @@ cover:
     image: spanish-latte-home-made-instant-coffee.webp
     alt: "Home Made Spanish Latte with Instant Coffee"
     caption: "Home Made Spanish Latte with Instant Coffee"
-    relative: false
+    relative: true
 ---
 
 I want to make a marketable Spanish Latte. But, I don't have any skills to make a good coffee. I did some research and hands-on. So, let's talk about the things I have learned recently.

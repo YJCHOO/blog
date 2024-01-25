@@ -7,7 +7,7 @@ cover:
     image: ikea-alex-storage-unit.webp
     alt: "IKEA ALEX Storage Unit"
     caption: "IKEA ALEX Storage Unit"
-    relative: false
+    relative: true
 ---
 
 Firstly, not to confuse the ALEX Storage Unit and the ALEX Drawer Unit. This ALEX Storage Unit doesn't have drawers. It's a cabinet, only has a single door and an adjustable shelf inside.

@@ -7,7 +7,7 @@ cover:
     image: sonoff-switchman-m5-smart-switch.webp
     alt: "Sonoff SwitchMan M5 Smart Switch"
     caption: "Sonoff SwitchMan M5 Smart Switch"
-    relative: false
+    relative: true
 ---
 
 I think this is a bad behavior. Sometimes, I bought something from the online store. I will leave it at some place and not unbox the parcel.

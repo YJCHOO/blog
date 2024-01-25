@@ -7,7 +7,7 @@ cover:
     image: 2024-new-year-firework.webp
     alt: "2024 New Year Firework"
     caption: "2024 New Year Firework"
-    relative: false
+    relative: true
 ---
 
 My New Year's resolution is simple: 
