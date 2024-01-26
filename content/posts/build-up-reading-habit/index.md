@@ -3,6 +3,7 @@ title: "Build Up My Reading Habit."
 description: "I will try this year."
 date: "2024-01-09"
 tags: ["Reading"]
+draft: false
 cover:
     image: build-up-my-reading-habit-cover.webp 
     alt: "build-up-my-reading-habit-cover"
