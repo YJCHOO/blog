@@ -4,6 +4,7 @@ description: "I love Boba bubble tea, but I only make the tea for now."
 date: "2024-01-26"
 tags: ["Tea"]
 draft: false
+ShowToc: true
 cover:
     image: milk-tea-in-a-cup.webp
     alt: "Milk tea in a cup"

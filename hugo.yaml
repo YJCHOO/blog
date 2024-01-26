@@ -1,7 +1,10 @@
 baseURL : https://yjchoo.github.io/blog/
 languageCode : en-us
 title : Juan's Blog
+paginate: 5
 theme : PaperMod
+
+enableRobotsTXT: true
 
 outputs:
     home:
@@ -21,13 +24,20 @@ params:
           title: "YouTube"
           url: "https://youtube.com/@juanthemaker"
         - name: "other"
-          title: "Juan's Tech Blog"
+          title: "Juan's Blog"
+          url: "http://yjchoo.github.io/blog"
+        - name: "other"
+          title: "Juan's Tech Blog(archive)"
           url: "https://juanstechblog.blogspot.com/"
         - name: kofi
           title: "Ko-fi"
           url: https://ko-fi.com/juanonkofi
+    ShowReadingTime: true
     ShowShareButtons: true
     ShowPostNavLinks: true
+    ShowBreadCrumbs: true
+    ShowWordCount: true
+    UseHugoToc: true
     analytics:
       google:
         SiteVerificationTag: "8tuuNRZtCnIRwkCljQTqQ_4KvsAJ-_jqNhFgewUSIFU"

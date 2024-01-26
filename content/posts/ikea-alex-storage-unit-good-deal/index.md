@@ -3,6 +3,8 @@ title: "IKEA Alex Storage Unit seems like a good deal now."
 description: "I brought it."
 date: "2023-12-31"
 tags: ["IKEA", "Storage Unit", "ALEX Storage Unit", "IKEA offer"]
+draft: false
+ShowToc: true
 cover:
     image: ikea-alex-storage-unit.webp
     alt: "IKEA ALEX Storage Unit"

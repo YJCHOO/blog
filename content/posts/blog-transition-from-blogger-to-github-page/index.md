@@ -3,6 +3,8 @@ title: "Transition from Blogger(Blogspot) to Github Page"
 description: "Hello, Github Page."
 date: "2024-01-25"
 tags: ["Blogging"]
+draft: false
+ShowToc: true
 cover:
     image: transition-from-blogger-to-github-page.webp 
     alt: "transition-from-blogger-to-github-page.webp"

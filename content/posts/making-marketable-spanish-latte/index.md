@@ -3,6 +3,8 @@ title: "Making Marketable Spanish Latte"
 description: "I'm not a Barista"
 date: "2024-01-16"
 tags: ["Coffee"]
+draft: false
+ShowToc: true
 cover:
     image: spanish-latte-home-made-instant-coffee.webp
     alt: "Home Made Spanish Latte with Instant Coffee"

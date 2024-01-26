@@ -3,6 +3,8 @@ title: "Why did my newly installed Smart switch trip the ELCB?"
 description: "I think I need a Zigbee Smart Switch."
 date: "2023-12-28"
 tags: ["Smart Home", "Smart Automation", "Smart Light Switch", "Smart Switch"]
+draft: false
+ShowToc: true
 cover:
     image: sonoff-switchman-m5-smart-switch.webp
     alt: "Sonoff SwitchMan M5 Smart Switch"

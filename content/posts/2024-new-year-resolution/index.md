@@ -3,6 +3,8 @@ title: "2024 New Year's Resolution"
 description: ""
 date: "2024-01-01"
 tags: ["2024's Resolution"]
+draft: false
+ShowToc: true
 cover:
     image: 2024-new-year-firework.webp
     alt: "2024 New Year Firework"
