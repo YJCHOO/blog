@@ -2,3 +2,4 @@
 	path = themes/PaperMod
 	url = https://github.com/YJCHOO/hugo-PaperMod.git
 	branch = pinterest-site-verification
+	ignore = dirty
