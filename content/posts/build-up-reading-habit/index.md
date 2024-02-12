@@ -12,7 +12,7 @@ cover:
     relative: true
 ---
 
-I want to build up my reading habits. But I always fail. That is why I'm still reading How to Avoid a Climate Disaster by Bill Gates after two years.  
+I want to build up my reading habit. But I always fail. That is why I'm still reading How to Avoid a Climate Disaster by Bill Gates after two years.  
 ![How to Avoid a Climate Disaster by Bill Gates my reading progress](how-to-avoid-a-climate-disaster-by-bill-gates-reading-progress.webp)
 I believe I will finish this book this year(I still have faith in my own). It's almost finished, 81% now. 
 
