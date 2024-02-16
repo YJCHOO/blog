@@ -6,14 +6,26 @@ tags: ["Reading"]
 draft: true
 ShowToc: true
 cover:
-    image: 
-    alt: ""
-    caption: ""
+    image: the-woman-in-me-by-britney-spears-reading-progress-in-libby-app.webp
+    alt: "The Woman in Me by Britney Spears reading progress in Libby app."
+    caption: "The Woman in Me by Britney Spears"
     relative: true
 ---
 
-I want to build up my reading habit in 2024. However, I didn't expect Britney Spears's book, "The Woman in Me," to be the first book I would finish reading this year.
+I want to build up my reading habits in 2024. However, I didn't expect Britney Spears's book, "The Woman in Me," to be the first book I would finish reading this year.
 
-I'm not a big Britney's fan. I born in 1997. So, I missed most of her's albums. But, I didn't miss the Femme Fatale.
-Femme Fatale is my way to discover dance-pop. "Hold it againt me", "I wanna go" and "Till the world end" still relavent in nowsaday.  
+I'm not a big Britney fan. But the Femme Fatale is an eye-opening dance-pop album for me. "Hold it Against Me", "I Wanna Go" and "Till the World End" are still relevant nowadays. 
+
+
+
+My motivation for reading this book is all about the teas. 
+
+![Paragraph about Britney Spears shaved her head](paragraph-about-britney-spears-shaved-her-head.webp)
+
+![Paragraph about Britney Spears pregnant with Justin Timberlake's baby](paragraph-about-britney-spears-pregnant-with-justin-timberlake-baby.webp)
+
+Britney Spears and Justin Timberlake's past relationship that everyone talks about. The conservatorship controls and silences her. Then, the life after the conservatorship.
+
+
+As a casual reader, I think this book is just OK. No details, just scratching the surface. 
  
